@@ -1,0 +1,7 @@
+this is the readme file that will be uploaded to the updates branch
+this will be used to cause the conflict.
+<<<<<<< HEAD
+this will definately mess up the automatic merging.
+=======
+messed up work on the newly created branch.
+>>>>>>> updates
