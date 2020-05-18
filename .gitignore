@@ -1,3 +1,4 @@
 *.log
 package.json
 *.orig
+README.me.orig
